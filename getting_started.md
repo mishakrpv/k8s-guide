@@ -6,6 +6,7 @@
 
 > * [kubestl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 > * [kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
+> * [minukube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download)
 
 ## Best practicies
 
