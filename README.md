@@ -1,4 +1,4 @@
-# k8s-guide
+# k8s-notes
 
 My personal collection of useful notes about Kubernetes and related tools.
 
